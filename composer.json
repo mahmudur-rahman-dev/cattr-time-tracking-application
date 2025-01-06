@@ -33,7 +33,7 @@
     "laravel/reverb": "@beta",
     "laravel/sanctum": "^3.2",
     "maatwebsite/excel": "^3.1",
-    "matanyadaev/laravel-eloquent-spatial": "^3.1",
+    "matanyadaev/laravel-eloquent-spatial": "^4.4",
     "mpdf/mpdf": "^8.0",
     "nwidart/laravel-modules": "^10",
     "phpseclib/phpseclib": "^3.0",
