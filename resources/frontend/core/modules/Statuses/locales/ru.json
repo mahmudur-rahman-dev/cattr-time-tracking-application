@@ -1,0 +1,13 @@
+{
+    "navigation": {
+        "statuses": "Статусы"
+    },
+    "statuses": {
+        "grid-title": "Статусы",
+        "crud-title": "Статус"
+    },
+    "field": {
+        "order": "Порядок",
+        "close_task": "Закрывать задачу"
+    }
+}

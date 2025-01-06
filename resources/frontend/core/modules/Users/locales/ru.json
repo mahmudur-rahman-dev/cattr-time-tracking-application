@@ -1,0 +1,26 @@
+{
+  "navigation": {
+    "users": "Пользователи"
+  },
+  "users": {
+    "grid-title": "Пользователи",
+    "crud-title": "Пользователь",
+    "statuses": {
+      "any": "Любой",
+      "active": "Активен",
+      "disabled": "Отключен"
+    },
+    "role": {
+      "name": "Роль"
+    },
+    "screenshots_state": {
+      "optional_will_be_overridden": "Даёт возможность выбора пользователю. По умолчанию устанавливается \"Обязательно\""
+    }
+  },
+  "languages": {
+    "default": "По-умолчанию",
+    "en": "English",
+    "ru": "Русский",
+    "dk": "Danish"
+  }
+}
