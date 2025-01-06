@@ -35,7 +35,7 @@
     "maatwebsite/excel": "^3.1",
     "matanyadaev/laravel-eloquent-spatial": "^3.1",
     "mpdf/mpdf": "^8.0",
-    "nwidart/laravel-modules": "^10",
+    "nwidart/laravel-modules": "^11",
     "phpseclib/phpseclib": "^3.0",
     "rybakit/msgpack": "^0.9.1",
     "sentry/sentry-laravel": "^4.1",
